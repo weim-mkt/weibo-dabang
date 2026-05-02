@@ -1,0 +1,3 @@
+[submodule "weim-mkt/overleaf-weibo-dabang"]
+	path = weim-mkt/overleaf-weibo-dabang
+	url = git@github.com:weim-mkt/overleaf-weibo-dabang.git
